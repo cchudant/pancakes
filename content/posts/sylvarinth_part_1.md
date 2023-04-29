@@ -7,8 +7,7 @@ The original language of the Lorem Ipsum text is called **Sylvarinth**, spoken b
 
 The focus of this lesson will be to introduce the Sylvarinth language, some basic grammar rules, as well as some cultural context for this long forgotten language.
 
-Around 1375 BCE, the Sylvari composed a poem titled "*The Whispering Roots*", which begins with the famous phrase "*Lorem ipsum dolor sit amet*". Let's explore some grammar rules of this language by examining a portion of the poem
-Let's analyze the first three lines of the poem:
+Around 1375 BCE, the Sylvari composed a poem titled "*The Whispering Roots*", which begins with the famous phrase "*Lorem ipsum dolor sit amet*". Let's explore some grammar rules of this language by examining a portion of the poem:
 
 > *Lorem ipsum dolor sit amet,*
 > 
