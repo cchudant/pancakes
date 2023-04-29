@@ -16,3 +16,35 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+mode = "toggle"
+subtitle = "cool blog (fumos to be added later)"
+copyright = "cchudant"
+
+[extra.translations]
+languages = [{name = "en", url = "/"}]
+
+[[extra.translations.en]]
+show_more = "Read more ⟶"
+previous_page = "← Previous"
+next_page = "Next →"
+posted_on = "on "
+posted_by = "Published by"
+read_time = "minute read"
+all_tags = "All tags"
+menus = [
+    { name = "Home", url = "/", weight = 2 },
+    { name = "All posts", url = "/posts", weight = 2 },
+    { name = "About", url = "/about", weight = 3 },
+    { name = "Tags", url = "/tags", weight = 4 },
+]
+
+[[extra.social]]
+icon = "github"
+name = "GitHub"
+url = "https://github.com/XXXMrG/archie-zola"
+
+[[extra.social]]
+icon = "twitter"
+name = "Twitter"
+url = "https://github.com/cchudant/"
